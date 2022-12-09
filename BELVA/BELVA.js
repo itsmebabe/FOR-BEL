@@ -32,7 +32,7 @@ function setup() {
 
 function draw() {
  background(0);
-  text('JANGAN BT PLEASE:(', 20,180);
+  text('SENYUM DONG CANTIK:)', 20,180);
 
   textSize(40);
   stroke(random(90,255));
